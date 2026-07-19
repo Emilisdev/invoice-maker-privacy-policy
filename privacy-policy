@@ -8,6 +8,13 @@ The app may access files or images only when you choose to import a backup, expo
 
 The app does not use analytics, advertising SDKs, tracking, accounts, or cloud storage.
 
+Payments:
+The app offers an optional one-time Premium purchase through Google Play Billing. Payment processing, purchase confirmation, and related transaction information are handled by Google Play according to Google’s own policies.
+
+Offline Invoice Maker does not collect or store your payment card details, billing address, or other payment information.
+
+The app may store a local Premium status on your device after a successful purchase or restore.
+
 If you delete data inside the app, it is removed from the app’s local storage. If you exported or shared files outside the app, you are responsible for managing those copies.
 
 Contact:
